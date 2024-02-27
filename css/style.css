@@ -284,14 +284,16 @@ span {
 }
 
 .portfolio-layer h4 {
-  font-size: 3rem;
-  color: var(--bg-color);
+  font-size: 3.2rem;
+  color: var(--main-color);
+  font-weight: bold;
 }
 
 .portfolio-layer p {
   font-size: 1.6rem;
+  font-weight: bold;
   margin: 0.3rem 0 1rem;
-  color: var(--second-bg-color);
+  color: var(--bg-color);
 }
 
 .portfolio-layer a {
